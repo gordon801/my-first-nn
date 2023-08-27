@@ -35,6 +35,7 @@ python predict.py path/to/image.jpg
 ## Results
 The trained model achieved an accuracy of approximately 92% on the validation dataset, demonstrating its effectiveness in classifying Sushi and Sashimi images.
 
+## Example Predictions
 ![sashimi_test1](https://github.com/gordon801/my-first-nn/assets/62014067/ea0ea642-131f-4a00-9a2b-cfa4e9260c16)
 ```
 $ python predict.py test_data/sashimi_test1.jpg
@@ -62,7 +63,7 @@ Prediction: sushi
 Probability: 99.81%
 ```
 
-Acknowledgments
+## Acknowledgments
 - [FastAI Library](https://docs.fast.ai/)
 - [Sushi vs Sashimi Image](https://thisonevsthatone.com/sushi-vs-sashimi/)
 - [Pytorch Tutorial](https://youtu.be/k1GIEkzQ8qc?si=FEv_pFYHeuvBkStW)
