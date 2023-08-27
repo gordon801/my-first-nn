@@ -23,7 +23,7 @@ git clone https://github.com/gordon801/sushi-sashimi-classification.git
 ```
 2. Install the required dependencies:
 ```
-conda env update -n my_env --file ENV.yaml
+conda env update -n my_env --file environment.yml
 ```
 3. Train the model by running the notebook `sushi-vs-sashimi-cnn.ipynb`.
 
