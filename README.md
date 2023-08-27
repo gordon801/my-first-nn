@@ -1,7 +1,7 @@
-# sushi-sashimi-classification
+# sushi-sashimi-cnn
 
 # Sushi vs Sashimi Image Classification CNN Model
-![image](https://github.com/gordon801/my-first-nn/assets/62014067/a274b57d-4d2b-4f87-9e45-c01458d3a2e6)
+![image](https://github.com/gordon801/my-first-nn/assets/62014067/8509f75f-b2b1-4a19-9b1c-763ec996eb07)
 
 ## Overview
 
@@ -18,19 +18,19 @@ This repository contains code and resources for building a Convolutional Neural 
 ## Getting Started
 
 1. Clone this repository:
-   ```
-   git clone https://github.com/gordon801/sushi-sashimi-classification.git
-   ```
+```
+git clone https://github.com/gordon801/sushi-sashimi-classification.git
+```
 2. Install the required dependencies:
-  ```
-  conda env update -n my_env --file ENV.yaml
-  ```
+```
+conda env update -n my_env --file ENV.yaml
+```
 3. Train the model by running the notebook `sushi-vs-sashimi-cnn.ipynb`.
 
 4. Make predictions on new images using the trained model. 
-  ```
-  python predict.py path/to/image.jpg
-  ```
+```
+python predict.py path/to/image.jpg
+```
 
 ## Results
 The trained model achieved an accuracy of approximately 92% on the validation dataset, demonstrating its effectiveness in classifying Sushi and Sashimi images.
