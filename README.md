@@ -9,7 +9,7 @@ This repository contains code and resources for building a Convolutional Neural 
 
 ## Project Highlights
 
-- **Dataset**: We used FASTAI's FOOD dataset of labeled images containing various examples of Sushi and Sashimi.
+- **Dataset**: FASTAI's FOOD dataset was used. It contains labeled images with various examples of Sushi and Sashimi.
 - **Model**: The FastAI library was employed to create and train a CNN model, utilizing the transfer learning approach with a pre-trained ResNet-34 architecture.
 - **Training**: The model was fine-tuned using the training data with data augmentation and normalization techniques.
 - **Evaluation**: The model's performance was assessed using metrics such as classification accuracy and error rate.
