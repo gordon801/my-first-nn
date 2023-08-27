@@ -25,6 +25,10 @@ git clone https://github.com/gordon801/sushi-sashimi-classification.git
 ```
 conda env update -n my_env --file environment.yml
 ```
+or
+```
+conda env create -f environment.yml
+```
 3. Train the model by running the notebook `sushi-vs-sashimi-cnn.ipynb`.
 
 4. Make predictions on new images using the trained model. 
