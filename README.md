@@ -1,4 +1,4 @@
-# sushi-sashimi-cnn
+### sushi-sashimi-cnn
 
 # Sushi vs Sashimi Image Classification CNN Model
 ![image](https://github.com/gordon801/my-first-nn/assets/62014067/8509f75f-b2b1-4a19-9b1c-763ec996eb07)
